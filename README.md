@@ -1,2 +1,4 @@
 # git-test
-odin project git practice 
+
+odin project git practice
+Hello Odin!
